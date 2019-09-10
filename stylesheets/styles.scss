@@ -20,6 +20,10 @@ h1, p {
   z-index: -1;
 }
 
+a {
+  color: lightgrey;
+}
+
 #box_world {
   animation: rotate 30000ms linear infinite;
   transform-style: preserve-3d;

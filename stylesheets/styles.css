@@ -16,6 +16,10 @@ h1, p {
   z-index: -1;
 }
 
+a {
+  color: lightgrey;
+}
+
 #box_world {
   animation: rotate 30000ms linear infinite;
   transform-style: preserve-3d;
@@ -131,787 +135,787 @@ h1, p {
   transform: translate3d(151px, 151px, 151px);
 }
 #box_world .box_wrapper:nth-child(1) .box_wall:nth-child(1) {
-  animation: borderColor 3245ms 9797ms linear infinite;
+  animation: borderColor 1457ms 1971ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(1) .box_wall:nth-child(2) {
-  animation: borderColor 2514ms 2285ms linear infinite;
+  animation: borderColor 3680ms 1178ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(1) .box_wall:nth-child(3) {
-  animation: borderColor 3462ms 8741ms linear infinite;
+  animation: borderColor 3029ms 7308ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(1) .box_wall:nth-child(4) {
-  animation: borderColor 1003ms 7308ms linear infinite;
+  animation: borderColor 1196ms 9672ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(1) .box_wall:nth-child(5) {
-  animation: borderColor 2444ms 9117ms linear infinite;
+  animation: borderColor 2443ms 6138ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(1) .box_wall:nth-child(6) {
-  animation: borderColor 2090ms 222ms linear infinite;
+  animation: borderColor 2813ms 306ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(1) .box_wall:nth-child(7) {
-  animation: borderColor 3692ms 3738ms linear infinite;
+  animation: borderColor 3569ms 2429ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(2) .box_wall:nth-child(1) {
-  animation: borderColor 1388ms 522ms linear infinite;
+  animation: borderColor 3846ms 7901ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(2) .box_wall:nth-child(2) {
-  animation: borderColor 3812ms 8996ms linear infinite;
+  animation: borderColor 2477ms 2246ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(2) .box_wall:nth-child(3) {
-  animation: borderColor 1820ms 3035ms linear infinite;
+  animation: borderColor 3378ms 3805ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(2) .box_wall:nth-child(4) {
-  animation: borderColor 3711ms 3256ms linear infinite;
+  animation: borderColor 2708ms 6374ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(2) .box_wall:nth-child(5) {
-  animation: borderColor 2841ms 9864ms linear infinite;
+  animation: borderColor 2426ms 105ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(2) .box_wall:nth-child(6) {
-  animation: borderColor 2878ms 8040ms linear infinite;
+  animation: borderColor 1239ms 741ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(2) .box_wall:nth-child(7) {
-  animation: borderColor 1658ms 4216ms linear infinite;
+  animation: borderColor 2529ms 4234ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(3) .box_wall:nth-child(1) {
-  animation: borderColor 3258ms 47ms linear infinite;
+  animation: borderColor 2903ms 1232ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(3) .box_wall:nth-child(2) {
-  animation: borderColor 2008ms 3575ms linear infinite;
+  animation: borderColor 1329ms 4509ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(3) .box_wall:nth-child(3) {
-  animation: borderColor 3033ms 2658ms linear infinite;
+  animation: borderColor 1577ms 3709ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(3) .box_wall:nth-child(4) {
-  animation: borderColor 2567ms 9280ms linear infinite;
+  animation: borderColor 1289ms 6398ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(3) .box_wall:nth-child(5) {
-  animation: borderColor 1048ms 2315ms linear infinite;
+  animation: borderColor 2239ms 5297ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(3) .box_wall:nth-child(6) {
-  animation: borderColor 1595ms 9972ms linear infinite;
+  animation: borderColor 2770ms 1472ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(3) .box_wall:nth-child(7) {
-  animation: borderColor 3088ms 5034ms linear infinite;
+  animation: borderColor 1153ms 1603ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(4) .box_wall:nth-child(1) {
-  animation: borderColor 1126ms 451ms linear infinite;
+  animation: borderColor 1529ms 3683ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(4) .box_wall:nth-child(2) {
-  animation: borderColor 3126ms 5220ms linear infinite;
+  animation: borderColor 3602ms 1773ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(4) .box_wall:nth-child(3) {
-  animation: borderColor 1468ms 1575ms linear infinite;
+  animation: borderColor 1629ms 650ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(4) .box_wall:nth-child(4) {
-  animation: borderColor 3969ms 9862ms linear infinite;
+  animation: borderColor 2905ms 1825ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(4) .box_wall:nth-child(5) {
-  animation: borderColor 1954ms 6833ms linear infinite;
+  animation: borderColor 3897ms 5839ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(4) .box_wall:nth-child(6) {
-  animation: borderColor 1121ms 2831ms linear infinite;
+  animation: borderColor 3942ms 1007ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(4) .box_wall:nth-child(7) {
-  animation: borderColor 2637ms 7296ms linear infinite;
+  animation: borderColor 1096ms 5918ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(5) .box_wall:nth-child(1) {
-  animation: borderColor 3965ms 75ms linear infinite;
+  animation: borderColor 3738ms 9423ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(5) .box_wall:nth-child(2) {
-  animation: borderColor 2324ms 3420ms linear infinite;
+  animation: borderColor 1219ms 2807ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(5) .box_wall:nth-child(3) {
-  animation: borderColor 1312ms 2157ms linear infinite;
+  animation: borderColor 3473ms 9691ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(5) .box_wall:nth-child(4) {
-  animation: borderColor 2864ms 347ms linear infinite;
+  animation: borderColor 3382ms 1133ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(5) .box_wall:nth-child(5) {
-  animation: borderColor 3997ms 6577ms linear infinite;
+  animation: borderColor 2163ms 4667ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(5) .box_wall:nth-child(6) {
-  animation: borderColor 1265ms 1106ms linear infinite;
+  animation: borderColor 1291ms 1311ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(5) .box_wall:nth-child(7) {
-  animation: borderColor 3363ms 850ms linear infinite;
+  animation: borderColor 2797ms 6522ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(6) .box_wall:nth-child(1) {
-  animation: borderColor 1472ms 5985ms linear infinite;
+  animation: borderColor 3537ms 6852ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(6) .box_wall:nth-child(2) {
-  animation: borderColor 2924ms 1071ms linear infinite;
+  animation: borderColor 2912ms 1006ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(6) .box_wall:nth-child(3) {
-  animation: borderColor 3317ms 465ms linear infinite;
+  animation: borderColor 1358ms 7671ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(6) .box_wall:nth-child(4) {
-  animation: borderColor 2731ms 6014ms linear infinite;
+  animation: borderColor 2547ms 33ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(6) .box_wall:nth-child(5) {
-  animation: borderColor 1571ms 2879ms linear infinite;
+  animation: borderColor 1020ms 1240ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(6) .box_wall:nth-child(6) {
-  animation: borderColor 3681ms 2717ms linear infinite;
+  animation: borderColor 2363ms 4168ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(6) .box_wall:nth-child(7) {
-  animation: borderColor 2348ms 7169ms linear infinite;
+  animation: borderColor 2147ms 1709ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(7) .box_wall:nth-child(1) {
-  animation: borderColor 1164ms 3956ms linear infinite;
+  animation: borderColor 3206ms 1492ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(7) .box_wall:nth-child(2) {
-  animation: borderColor 3794ms 1792ms linear infinite;
+  animation: borderColor 2084ms 5095ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(7) .box_wall:nth-child(3) {
-  animation: borderColor 3962ms 5230ms linear infinite;
+  animation: borderColor 3850ms 9860ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(7) .box_wall:nth-child(4) {
-  animation: borderColor 2994ms 3452ms linear infinite;
+  animation: borderColor 3672ms 3012ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(7) .box_wall:nth-child(5) {
-  animation: borderColor 3201ms 9857ms linear infinite;
+  animation: borderColor 2282ms 8541ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(7) .box_wall:nth-child(6) {
-  animation: borderColor 1861ms 4691ms linear infinite;
+  animation: borderColor 1100ms 1355ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(7) .box_wall:nth-child(7) {
-  animation: borderColor 1301ms 5624ms linear infinite;
+  animation: borderColor 1091ms 1803ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(8) .box_wall:nth-child(1) {
-  animation: borderColor 2175ms 508ms linear infinite;
+  animation: borderColor 3575ms 5334ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(8) .box_wall:nth-child(2) {
-  animation: borderColor 2698ms 8200ms linear infinite;
+  animation: borderColor 2786ms 8298ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(8) .box_wall:nth-child(3) {
-  animation: borderColor 3085ms 2720ms linear infinite;
+  animation: borderColor 3130ms 3352ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(8) .box_wall:nth-child(4) {
-  animation: borderColor 3754ms 610ms linear infinite;
+  animation: borderColor 1505ms 3617ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(8) .box_wall:nth-child(5) {
-  animation: borderColor 2620ms 1505ms linear infinite;
+  animation: borderColor 3208ms 9802ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(8) .box_wall:nth-child(6) {
-  animation: borderColor 2136ms 2747ms linear infinite;
+  animation: borderColor 1799ms 2019ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(8) .box_wall:nth-child(7) {
-  animation: borderColor 3575ms 233ms linear infinite;
+  animation: borderColor 3376ms 4626ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(9) .box_wall:nth-child(1) {
-  animation: borderColor 1077ms 7383ms linear infinite;
+  animation: borderColor 3188ms 1825ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(9) .box_wall:nth-child(2) {
-  animation: borderColor 2210ms 5713ms linear infinite;
+  animation: borderColor 2045ms 9979ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(9) .box_wall:nth-child(3) {
-  animation: borderColor 1420ms 7637ms linear infinite;
+  animation: borderColor 3673ms 4848ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(9) .box_wall:nth-child(4) {
-  animation: borderColor 1274ms 2363ms linear infinite;
+  animation: borderColor 3104ms 9784ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(9) .box_wall:nth-child(5) {
-  animation: borderColor 2667ms 3109ms linear infinite;
+  animation: borderColor 2010ms 4478ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(9) .box_wall:nth-child(6) {
-  animation: borderColor 3335ms 6848ms linear infinite;
+  animation: borderColor 3956ms 3404ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(9) .box_wall:nth-child(7) {
-  animation: borderColor 3481ms 7194ms linear infinite;
+  animation: borderColor 2809ms 932ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(10) .box_wall:nth-child(1) {
-  animation: borderColor 3648ms 170ms linear infinite;
+  animation: borderColor 3393ms 9308ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(10) .box_wall:nth-child(2) {
-  animation: borderColor 2274ms 3383ms linear infinite;
+  animation: borderColor 2467ms 7623ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(10) .box_wall:nth-child(3) {
-  animation: borderColor 3171ms 3497ms linear infinite;
+  animation: borderColor 2900ms 3676ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(10) .box_wall:nth-child(4) {
-  animation: borderColor 2705ms 2928ms linear infinite;
+  animation: borderColor 1655ms 6869ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(10) .box_wall:nth-child(5) {
-  animation: borderColor 3777ms 2267ms linear infinite;
+  animation: borderColor 2039ms 770ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(10) .box_wall:nth-child(6) {
-  animation: borderColor 3544ms 33ms linear infinite;
+  animation: borderColor 1644ms 3142ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(10) .box_wall:nth-child(7) {
-  animation: borderColor 2509ms 8758ms linear infinite;
+  animation: borderColor 1208ms 9459ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(11) .box_wall:nth-child(1) {
-  animation: borderColor 2351ms 5683ms linear infinite;
+  animation: borderColor 3495ms 8260ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(11) .box_wall:nth-child(2) {
-  animation: borderColor 3448ms 794ms linear infinite;
+  animation: borderColor 1391ms 7726ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(11) .box_wall:nth-child(3) {
-  animation: borderColor 1902ms 123ms linear infinite;
+  animation: borderColor 1456ms 8318ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(11) .box_wall:nth-child(4) {
-  animation: borderColor 1748ms 277ms linear infinite;
+  animation: borderColor 3935ms 5533ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(11) .box_wall:nth-child(5) {
-  animation: borderColor 3872ms 1525ms linear infinite;
+  animation: borderColor 2269ms 1172ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(11) .box_wall:nth-child(6) {
-  animation: borderColor 2034ms 3367ms linear infinite;
+  animation: borderColor 3831ms 4000ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(11) .box_wall:nth-child(7) {
-  animation: borderColor 2014ms 1372ms linear infinite;
+  animation: borderColor 1218ms 9103ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(12) .box_wall:nth-child(1) {
-  animation: borderColor 1478ms 763ms linear infinite;
+  animation: borderColor 2597ms 6520ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(12) .box_wall:nth-child(2) {
-  animation: borderColor 2321ms 6454ms linear infinite;
+  animation: borderColor 1859ms 3741ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(12) .box_wall:nth-child(3) {
-  animation: borderColor 2846ms 6091ms linear infinite;
+  animation: borderColor 1940ms 8996ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(12) .box_wall:nth-child(4) {
-  animation: borderColor 3674ms 3645ms linear infinite;
+  animation: borderColor 3319ms 2203ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(12) .box_wall:nth-child(5) {
-  animation: borderColor 1043ms 1511ms linear infinite;
+  animation: borderColor 1454ms 1513ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(12) .box_wall:nth-child(6) {
-  animation: borderColor 3823ms 4492ms linear infinite;
+  animation: borderColor 2602ms 3202ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(12) .box_wall:nth-child(7) {
-  animation: borderColor 2278ms 4266ms linear infinite;
+  animation: borderColor 2987ms 7887ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(13) .box_wall:nth-child(1) {
-  animation: borderColor 3345ms 7404ms linear infinite;
+  animation: borderColor 1525ms 826ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(13) .box_wall:nth-child(2) {
-  animation: borderColor 2046ms 1470ms linear infinite;
+  animation: borderColor 1884ms 2213ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(13) .box_wall:nth-child(3) {
-  animation: borderColor 1990ms 2011ms linear infinite;
+  animation: borderColor 3167ms 2352ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(13) .box_wall:nth-child(4) {
-  animation: borderColor 2180ms 2572ms linear infinite;
+  animation: borderColor 2673ms 5402ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(13) .box_wall:nth-child(5) {
-  animation: borderColor 2228ms 5898ms linear infinite;
+  animation: borderColor 1089ms 1360ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(13) .box_wall:nth-child(6) {
-  animation: borderColor 3142ms 2662ms linear infinite;
+  animation: borderColor 2481ms 9746ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(13) .box_wall:nth-child(7) {
-  animation: borderColor 2907ms 9263ms linear infinite;
+  animation: borderColor 3296ms 9453ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(14) .box_wall:nth-child(1) {
-  animation: borderColor 1212ms 7824ms linear infinite;
+  animation: borderColor 1794ms 4311ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(14) .box_wall:nth-child(2) {
-  animation: borderColor 1956ms 3667ms linear infinite;
+  animation: borderColor 1709ms 3285ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(14) .box_wall:nth-child(3) {
-  animation: borderColor 3284ms 1855ms linear infinite;
+  animation: borderColor 1562ms 3937ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(14) .box_wall:nth-child(4) {
-  animation: borderColor 2077ms 9335ms linear infinite;
+  animation: borderColor 1307ms 6140ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(14) .box_wall:nth-child(5) {
-  animation: borderColor 3902ms 5862ms linear infinite;
+  animation: borderColor 2242ms 5988ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(14) .box_wall:nth-child(6) {
-  animation: borderColor 1092ms 1891ms linear infinite;
+  animation: borderColor 1397ms 7512ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(14) .box_wall:nth-child(7) {
-  animation: borderColor 3869ms 2254ms linear infinite;
+  animation: borderColor 1784ms 7345ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(15) .box_wall:nth-child(1) {
-  animation: borderColor 2459ms 8936ms linear infinite;
+  animation: borderColor 1985ms 7826ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(15) .box_wall:nth-child(2) {
-  animation: borderColor 3529ms 9838ms linear infinite;
+  animation: borderColor 2447ms 1529ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(15) .box_wall:nth-child(3) {
-  animation: borderColor 2900ms 6223ms linear infinite;
+  animation: borderColor 1659ms 2025ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(15) .box_wall:nth-child(4) {
-  animation: borderColor 1086ms 4251ms linear infinite;
+  animation: borderColor 3414ms 5615ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(15) .box_wall:nth-child(5) {
-  animation: borderColor 3679ms 8213ms linear infinite;
+  animation: borderColor 1459ms 134ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(15) .box_wall:nth-child(6) {
-  animation: borderColor 1074ms 2739ms linear infinite;
+  animation: borderColor 1687ms 5274ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(15) .box_wall:nth-child(7) {
-  animation: borderColor 2656ms 6402ms linear infinite;
+  animation: borderColor 1071ms 3655ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(16) .box_wall:nth-child(1) {
-  animation: borderColor 1479ms 770ms linear infinite;
+  animation: borderColor 3393ms 9227ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(16) .box_wall:nth-child(2) {
-  animation: borderColor 1570ms 4077ms linear infinite;
+  animation: borderColor 1714ms 2291ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(16) .box_wall:nth-child(3) {
-  animation: borderColor 1243ms 8905ms linear infinite;
+  animation: borderColor 3269ms 430ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(16) .box_wall:nth-child(4) {
-  animation: borderColor 3902ms 1341ms linear infinite;
+  animation: borderColor 2198ms 8228ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(16) .box_wall:nth-child(5) {
-  animation: borderColor 1791ms 3554ms linear infinite;
+  animation: borderColor 3084ms 7763ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(16) .box_wall:nth-child(6) {
-  animation: borderColor 2613ms 4563ms linear infinite;
+  animation: borderColor 3428ms 5955ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(16) .box_wall:nth-child(7) {
-  animation: borderColor 3062ms 8447ms linear infinite;
+  animation: borderColor 2809ms 6419ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(17) .box_wall:nth-child(1) {
-  animation: borderColor 2163ms 1736ms linear infinite;
+  animation: borderColor 2781ms 3755ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(17) .box_wall:nth-child(2) {
-  animation: borderColor 1073ms 3295ms linear infinite;
+  animation: borderColor 3097ms 4430ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(17) .box_wall:nth-child(3) {
-  animation: borderColor 2093ms 3184ms linear infinite;
+  animation: borderColor 2135ms 7694ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(17) .box_wall:nth-child(4) {
-  animation: borderColor 1494ms 2008ms linear infinite;
+  animation: borderColor 2400ms 3798ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(17) .box_wall:nth-child(5) {
-  animation: borderColor 2154ms 1705ms linear infinite;
+  animation: borderColor 1592ms 740ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(17) .box_wall:nth-child(6) {
-  animation: borderColor 1371ms 7360ms linear infinite;
+  animation: borderColor 3053ms 1136ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(17) .box_wall:nth-child(7) {
-  animation: borderColor 1945ms 5613ms linear infinite;
+  animation: borderColor 3934ms 479ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(18) .box_wall:nth-child(1) {
-  animation: borderColor 3141ms 1481ms linear infinite;
+  animation: borderColor 2665ms 4074ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(18) .box_wall:nth-child(2) {
-  animation: borderColor 3179ms 7420ms linear infinite;
+  animation: borderColor 3955ms 7287ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(18) .box_wall:nth-child(3) {
-  animation: borderColor 3272ms 6203ms linear infinite;
+  animation: borderColor 3301ms 7263ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(18) .box_wall:nth-child(4) {
-  animation: borderColor 3853ms 3392ms linear infinite;
+  animation: borderColor 3057ms 4043ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(18) .box_wall:nth-child(5) {
-  animation: borderColor 3696ms 6611ms linear infinite;
+  animation: borderColor 3518ms 7326ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(18) .box_wall:nth-child(6) {
-  animation: borderColor 3632ms 3020ms linear infinite;
+  animation: borderColor 2621ms 2227ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(18) .box_wall:nth-child(7) {
-  animation: borderColor 1094ms 3425ms linear infinite;
+  animation: borderColor 2106ms 740ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(19) .box_wall:nth-child(1) {
-  animation: borderColor 3947ms 4757ms linear infinite;
+  animation: borderColor 2126ms 1630ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(19) .box_wall:nth-child(2) {
-  animation: borderColor 3851ms 8930ms linear infinite;
+  animation: borderColor 2601ms 6324ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(19) .box_wall:nth-child(3) {
-  animation: borderColor 2380ms 3284ms linear infinite;
+  animation: borderColor 2811ms 8883ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(19) .box_wall:nth-child(4) {
-  animation: borderColor 3675ms 941ms linear infinite;
+  animation: borderColor 1779ms 7480ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(19) .box_wall:nth-child(5) {
-  animation: borderColor 1872ms 3151ms linear infinite;
+  animation: borderColor 1709ms 378ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(19) .box_wall:nth-child(6) {
-  animation: borderColor 3737ms 416ms linear infinite;
+  animation: borderColor 3260ms 6101ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(19) .box_wall:nth-child(7) {
-  animation: borderColor 1667ms 4368ms linear infinite;
+  animation: borderColor 1326ms 6868ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(20) .box_wall:nth-child(1) {
-  animation: borderColor 3805ms 4936ms linear infinite;
+  animation: borderColor 1645ms 4710ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(20) .box_wall:nth-child(2) {
-  animation: borderColor 1333ms 5896ms linear infinite;
+  animation: borderColor 2487ms 9308ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(20) .box_wall:nth-child(3) {
-  animation: borderColor 1600ms 3560ms linear infinite;
+  animation: borderColor 3270ms 521ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(20) .box_wall:nth-child(4) {
-  animation: borderColor 2656ms 361ms linear infinite;
+  animation: borderColor 3473ms 2994ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(20) .box_wall:nth-child(5) {
-  animation: borderColor 2428ms 4900ms linear infinite;
+  animation: borderColor 1508ms 6592ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(20) .box_wall:nth-child(6) {
-  animation: borderColor 2914ms 1901ms linear infinite;
+  animation: borderColor 1291ms 7565ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(20) .box_wall:nth-child(7) {
-  animation: borderColor 1615ms 2362ms linear infinite;
+  animation: borderColor 2405ms 3660ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(21) .box_wall:nth-child(1) {
-  animation: borderColor 3108ms 3705ms linear infinite;
+  animation: borderColor 3011ms 7526ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(21) .box_wall:nth-child(2) {
-  animation: borderColor 1505ms 3860ms linear infinite;
+  animation: borderColor 3740ms 6970ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(21) .box_wall:nth-child(3) {
-  animation: borderColor 1919ms 3855ms linear infinite;
+  animation: borderColor 2738ms 1337ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(21) .box_wall:nth-child(4) {
-  animation: borderColor 1681ms 4068ms linear infinite;
+  animation: borderColor 2588ms 4364ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(21) .box_wall:nth-child(5) {
-  animation: borderColor 3530ms 9665ms linear infinite;
+  animation: borderColor 2554ms 8974ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(21) .box_wall:nth-child(6) {
-  animation: borderColor 2981ms 894ms linear infinite;
+  animation: borderColor 2130ms 5272ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(21) .box_wall:nth-child(7) {
-  animation: borderColor 3177ms 8629ms linear infinite;
+  animation: borderColor 2412ms 6264ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(22) .box_wall:nth-child(1) {
-  animation: borderColor 3884ms 7946ms linear infinite;
+  animation: borderColor 2292ms 3578ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(22) .box_wall:nth-child(2) {
-  animation: borderColor 3300ms 5843ms linear infinite;
+  animation: borderColor 1611ms 5240ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(22) .box_wall:nth-child(3) {
-  animation: borderColor 3967ms 2983ms linear infinite;
+  animation: borderColor 3901ms 909ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(22) .box_wall:nth-child(4) {
-  animation: borderColor 1469ms 6074ms linear infinite;
+  animation: borderColor 3298ms 7996ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(22) .box_wall:nth-child(5) {
-  animation: borderColor 1692ms 7717ms linear infinite;
+  animation: borderColor 2674ms 4592ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(22) .box_wall:nth-child(6) {
-  animation: borderColor 2142ms 1140ms linear infinite;
+  animation: borderColor 1419ms 2243ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(22) .box_wall:nth-child(7) {
-  animation: borderColor 1581ms 2769ms linear infinite;
+  animation: borderColor 2652ms 918ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(23) .box_wall:nth-child(1) {
-  animation: borderColor 3855ms 8964ms linear infinite;
+  animation: borderColor 1803ms 2015ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(23) .box_wall:nth-child(2) {
-  animation: borderColor 3976ms 7345ms linear infinite;
+  animation: borderColor 3115ms 9587ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(23) .box_wall:nth-child(3) {
-  animation: borderColor 3754ms 9952ms linear infinite;
+  animation: borderColor 3662ms 4153ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(23) .box_wall:nth-child(4) {
-  animation: borderColor 1006ms 5931ms linear infinite;
+  animation: borderColor 1781ms 6421ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(23) .box_wall:nth-child(5) {
-  animation: borderColor 1471ms 4767ms linear infinite;
+  animation: borderColor 1365ms 7710ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(23) .box_wall:nth-child(6) {
-  animation: borderColor 3197ms 3129ms linear infinite;
+  animation: borderColor 2530ms 9962ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(23) .box_wall:nth-child(7) {
-  animation: borderColor 1840ms 663ms linear infinite;
+  animation: borderColor 1623ms 2537ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(24) .box_wall:nth-child(1) {
-  animation: borderColor 3248ms 5904ms linear infinite;
+  animation: borderColor 2612ms 2508ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(24) .box_wall:nth-child(2) {
-  animation: borderColor 1340ms 1274ms linear infinite;
+  animation: borderColor 1775ms 8925ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(24) .box_wall:nth-child(3) {
-  animation: borderColor 1576ms 8735ms linear infinite;
+  animation: borderColor 3167ms 5950ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(24) .box_wall:nth-child(4) {
-  animation: borderColor 1216ms 3803ms linear infinite;
+  animation: borderColor 3348ms 1964ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(24) .box_wall:nth-child(5) {
-  animation: borderColor 3893ms 3793ms linear infinite;
+  animation: borderColor 1689ms 5680ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(24) .box_wall:nth-child(6) {
-  animation: borderColor 2593ms 8702ms linear infinite;
+  animation: borderColor 1921ms 1112ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(24) .box_wall:nth-child(7) {
-  animation: borderColor 3093ms 1297ms linear infinite;
+  animation: borderColor 2782ms 506ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(25) .box_wall:nth-child(1) {
-  animation: borderColor 3166ms 3130ms linear infinite;
+  animation: borderColor 3370ms 6800ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(25) .box_wall:nth-child(2) {
-  animation: borderColor 1713ms 8344ms linear infinite;
+  animation: borderColor 3725ms 4632ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(25) .box_wall:nth-child(3) {
-  animation: borderColor 3479ms 3327ms linear infinite;
+  animation: borderColor 2277ms 7188ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(25) .box_wall:nth-child(4) {
-  animation: borderColor 3855ms 8254ms linear infinite;
+  animation: borderColor 2558ms 5289ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(25) .box_wall:nth-child(5) {
-  animation: borderColor 2685ms 8086ms linear infinite;
+  animation: borderColor 3223ms 7326ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(25) .box_wall:nth-child(6) {
-  animation: borderColor 3155ms 3833ms linear infinite;
+  animation: borderColor 2938ms 3674ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(25) .box_wall:nth-child(7) {
-  animation: borderColor 2836ms 6471ms linear infinite;
+  animation: borderColor 1902ms 1130ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(26) .box_wall:nth-child(1) {
-  animation: borderColor 3447ms 6898ms linear infinite;
+  animation: borderColor 1324ms 4567ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(26) .box_wall:nth-child(2) {
-  animation: borderColor 1090ms 5286ms linear infinite;
+  animation: borderColor 3591ms 5448ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(26) .box_wall:nth-child(3) {
-  animation: borderColor 3962ms 8101ms linear infinite;
+  animation: borderColor 2659ms 212ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(26) .box_wall:nth-child(4) {
-  animation: borderColor 1646ms 2862ms linear infinite;
+  animation: borderColor 3191ms 4735ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(26) .box_wall:nth-child(5) {
-  animation: borderColor 3874ms 4817ms linear infinite;
+  animation: borderColor 1068ms 6832ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(26) .box_wall:nth-child(6) {
-  animation: borderColor 3417ms 4553ms linear infinite;
+  animation: borderColor 3860ms 6815ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(26) .box_wall:nth-child(7) {
-  animation: borderColor 3185ms 6208ms linear infinite;
+  animation: borderColor 2370ms 1307ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(27) .box_wall:nth-child(1) {
-  animation: borderColor 2451ms 6516ms linear infinite;
+  animation: borderColor 2469ms 2744ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(27) .box_wall:nth-child(2) {
-  animation: borderColor 3788ms 495ms linear infinite;
+  animation: borderColor 2375ms 7991ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(27) .box_wall:nth-child(3) {
-  animation: borderColor 2942ms 9382ms linear infinite;
+  animation: borderColor 1052ms 6947ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(27) .box_wall:nth-child(4) {
-  animation: borderColor 3144ms 3163ms linear infinite;
+  animation: borderColor 2125ms 9278ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(27) .box_wall:nth-child(5) {
-  animation: borderColor 1563ms 2452ms linear infinite;
+  animation: borderColor 1609ms 2996ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(27) .box_wall:nth-child(6) {
-  animation: borderColor 1894ms 8895ms linear infinite;
+  animation: borderColor 1016ms 6048ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(27) .box_wall:nth-child(7) {
-  animation: borderColor 2898ms 2292ms linear infinite;
+  animation: borderColor 3451ms 2930ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(28) .box_wall:nth-child(1) {
-  animation: borderColor 3101ms 7729ms linear infinite;
+  animation: borderColor 1147ms 3191ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(28) .box_wall:nth-child(2) {
-  animation: borderColor 3900ms 9361ms linear infinite;
+  animation: borderColor 3866ms 6697ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(28) .box_wall:nth-child(3) {
-  animation: borderColor 3779ms 1788ms linear infinite;
+  animation: borderColor 1535ms 1380ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(28) .box_wall:nth-child(4) {
-  animation: borderColor 1335ms 2406ms linear infinite;
+  animation: borderColor 3581ms 4656ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(28) .box_wall:nth-child(5) {
-  animation: borderColor 1486ms 9500ms linear infinite;
+  animation: borderColor 3745ms 3306ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(28) .box_wall:nth-child(6) {
-  animation: borderColor 2628ms 11ms linear infinite;
+  animation: borderColor 3107ms 7146ms linear infinite;
   animation-fill-mode: both;
 }
 #box_world .box_wrapper:nth-child(28) .box_wall:nth-child(7) {
-  animation: borderColor 1866ms 6886ms linear infinite;
+  animation: borderColor 1289ms 6216ms linear infinite;
   animation-fill-mode: both;
 }
 
