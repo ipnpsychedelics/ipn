@@ -4,7 +4,8 @@ $margin: 1px;
 
 body {
   color: white;
-  background: #000;
+  /* background: #000; */
+  background-image: linear-gradient(to bottom right, rgba(253,95,0,0.75), rgba(204,255,0,0.75));
   height: 100vh;
   overflow: hidden;
   display: flex;
@@ -21,7 +22,7 @@ h1, p {
 }
 
 a {
-  color: lightgrey;
+  color: white;
 }
 
 #box_world {
